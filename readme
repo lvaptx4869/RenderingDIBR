@@ -1,4 +1,9 @@
 视点差值，是为了加速没有图形加速器的低功耗处理器和系统的三维场景的渲染而研发的一种技术。
-update command
-firstly, use the git GUI
-secondly, git init        git add .       git commit -m "description"   git push origin master
+
+firstly, use the Github GUI
+secondly, useful command
+  git init
+  git add . 
+  git commit -m "description"   
+  git push 
+This is the origin master. 
